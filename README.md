@@ -24,5 +24,3 @@ Commands
    vvp ram_out
    gtkwave ram.vcd
 
-0UT PUT:
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/abdb758e-4655-45e5-86a5-aca7d77bfa5a" />
